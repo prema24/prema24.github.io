@@ -977,15 +977,6 @@ audio {
 	transform:translate(0px,-500px);
 
 }
-.bannars {
-	max-width: 100%;
-	-webkit-transform:translate(0px,-500px);
-	-moz-transform:translate(0px,-500px);
-	-o-transform:translate(0px,-500px);
-	-ms-transform:translate(0px,-500px);
-	transform:translate(0px,-500px);
-
-}
 .bannar-come {
 	-webkit-animation: bannar_come linear 6s;
 	-webkit-transform:translate(0px,0px);
